@@ -18,4 +18,4 @@
 4. Ferramentas para Usabilidade e Experiência do Usuário (UX)<br/>
     a. **Google Lighthouse (disponível no Chrome DevTools)**: Avalia acessibilidade, SEO, performance e usabilidade de sites.<br/>
     b. **Hotjar (hotjar.com)**: Registra interações de usuários e gera mapas de calor para analisar a experiência do usuário (UX).<br/>
-    c. **UserTesting (usertesting.com)**: Permite testes reais com usuários para avaliar a navegabilidade e usabilidade de um sistema.<br/><br/>
+    c. **UserTesting (usertesting.com)**: Permite testes reais com usuários para avaliar a navegabilidade e usabilidade de um sistema.<br/>
